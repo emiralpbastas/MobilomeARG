@@ -1,0 +1,6 @@
+ORF_ID	Contig	Start	Stop	Orientation	Cut_Off	Best_Hit_ARO	Drug Class	Resistance Mechanism	AMR Gene Family
+PROKKA_00004	contig_1	7360	10500	+	Strict	amrB	aminoglycoside antibiotic; macrolide antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+PROKKA_00103	contig_14	3200	4080	+	Perfect	KPC-2	carbapenem; cephalosporin; penam	antibiotic inactivation	KPC beta-lactamase
+PROKKA_00106	contig_14	6850	8050	+	Strict	tet(A)	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+PROKKA_00202	contig_28	2300	3090	+	Perfect	aadA2	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')-Ia
+PROKKA_00204	contig_28	3650	4490	+	Perfect	sul1	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
